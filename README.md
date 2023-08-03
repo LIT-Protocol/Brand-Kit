@@ -1,5 +1,4 @@
-# Brand-Kit
-Lit Protocol Brand and Media Kit (2023)
+# Lit Protocol Brand and Media Kit (2023)
 
 ### Mission Statement and Summary
 Lit Protocol is distributed cryptography for encryption, compute, and programmable signing. As a generalizable key management network, Lit provides developers with a comprehensive set of tools for managing sovereign identities on the open Web. Get started [building with Lit today](https://developer.litprotocol.com/SDK/Explanation/installation).
