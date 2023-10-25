@@ -1,13 +1,9 @@
 # Lit Protocol Brand and Media Kit (2023)
 
 ### Mission Statement and Summary
-Lit Protocol is distributed cryptography for encryption, compute, and programmable signing. As a generalizable key management network, Lit provides developers with a comprehensive set of tools for managing sovereign identities on the open Web. Get started [building with Lit today](https://developer.litprotocol.com/SDK/Explanation/installation).
+Lit Protocol is a decentralized key management network and set of developer tools that enable programmable digital signatures and identity-based encryption. Lit can be used to build seamless [wallet onboarding experiences](https://developer.litprotocol.com/v3/sdk/wallets/intro), store [private data on the open web](https://developer.litprotocol.com/v3/sdk/access-control/intro), and define powerful transaction [signing automations](https://developer.litprotocol.com/v3/sdk/serverless-signing/overview/). Get started [building with Lit today](https://developer.litprotocol.com/SDK/Explanation/installation).
 
-Lit’s goal is to enhance the security and functionality of decentralized applications (dApps) by:
-
-1. Facilitating **interoperability between previously disconnected ecosystems** and platforms through blockchain-agnostic signing and encryption / decryption.
-2. Enabling **private, permissioned, and truly sovereign data** on previously “public-by-default” networks.
-3. Providing dApps with a more **seamless way to onboard their users** through the use of “web2 friendly” authentication schemes (such as Google oAuth, SMS, email, and Passkeys).
+Lit’s goal is to enhance the security and functionality of web3 and empower individuals and application developers to reclaim their digital independence, regardless of technical expertise. Lit provides web3 native identity that embodies the shift from Web 2.0, where everyone is merely a user, to a new web, where every individual is a sovereign entity that owns their assets and data.
 
 To contribute to the Lit ecosystem as a developer, content creator, or as a curious member of the community, please take a look at the following brand assets, contributor guidelines, and helpful links:
 
