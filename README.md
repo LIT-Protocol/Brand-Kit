@@ -1,4 +1,4 @@
-# Lit Protocol Brand and Media Kit (2023)
+# Lit Protocol Brand and Media Kit (2024)
 
 ### Mission Statement and Summary
 Lit Protocol is a decentralized key management network and set of developer tools that enable programmable digital signatures and identity-based encryption. Lit can be used to build seamless [wallet onboarding experiences](https://developer.litprotocol.com/v3/sdk/wallets/intro), store [private data on the open web](https://developer.litprotocol.com/v3/sdk/access-control/intro), and define powerful transaction [signing automations](https://developer.litprotocol.com/v3/sdk/serverless-signing/overview/). Get started [building with Lit today](https://developer.litprotocol.com/v3/sdk/installation).
